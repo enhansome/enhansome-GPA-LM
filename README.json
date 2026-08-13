@@ -1,0 +1,1014 @@
+{
+  "items": [
+    {
+      "description": "✨ [2024/02/06] Creation of this repository to maintain the list of papers on LLM-based agents for game playing. More papers are coming soon!",
+      "items": [],
+      "title": "🌟 News"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2024/04/17] AgentKit: Flow Engineering with Graphs, not Coding. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-20T10:26:34Z",
+            "owner": "Holmeswww",
+            "repo": "AgentKit",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2024/04/16] Self-playing Adversarial Language Game Enhances LLM Reasoning. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-24T13:44:54Z",
+            "owner": "Linear95",
+            "repo": "SPAG",
+            "stars": 146
+          }
+        }
+      ],
+      "title": "2024/04"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2024/03/23] Evaluate LLMs in real time with Street Fighter III. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-21T10:35:26Z",
+            "owner": "OpenGenerativeAI",
+            "repo": "llm-colosseum",
+            "stars": 1484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2024/03/18] MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-16T12:19:29Z",
+            "owner": "Zhoues",
+            "repo": "MineDreamer",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2024/03/13] SOTOPIA-$\\pi$: Interactive Learning of Socially Intelligent Language Agents. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-07T18:20:25Z",
+            "owner": "sotopia-lab",
+            "repo": "sotopia-pi",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2024/03/08] Will GPT-4 Run DOOM? [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-28T22:17:14Z",
+            "owner": "adewynter",
+            "repo": "Doom",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "2024/03"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2024/02/02] PokéLLMon: A Human-Parity Agent for Pokemon Battles with Large Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-12T07:40:16Z",
+            "owner": "git-disl",
+            "repo": "PokeLLMon",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2024/02/27] Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-02T13:56:23Z",
+            "owner": "zwq2018",
+            "repo": "Agent-Pro",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2024/02/21] PCA-Bench: Evaluating Multimodal Large Language Models in Perception-Cognition-Action Chain. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-14T11:37:19Z",
+            "owner": "pkunlp-icler",
+            "repo": "PCA-EVAL",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2024/02/20] What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-22T03:12:19Z",
+            "owner": "MingyuJ666",
+            "repo": "Simulating-Alien-Civilizations-with-LLM-based-Agents",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "2024/02"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/12/12] MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-30T13:42:16Z",
+            "owner": "IranQin",
+            "repo": "MP5",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/12/05] Creative Agents: Empowering Agents with Imagination for Creative Tasks. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-11T03:03:16Z",
+            "owner": "PKU-RL",
+            "repo": "Creative-Agents",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/12/08] Apollo's Oracle: Retrieval-Augmented Reasoning in Multi-Agent Debates. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-06T12:30:31Z",
+            "owner": "FutureForMe",
+            "repo": "MADKE",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/12/08] GlitchBench: Can large multimodal models detect video game glitches? [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-27T02:23:00Z",
+            "owner": "GlitchBench",
+            "repo": "Benchmark",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "2023/12"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/11/28] War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-05T17:56:29Z",
+            "owner": "agiresearch",
+            "repo": "WarAgent",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/11/10] Jarvis-1: Open-World Multi-Task Agents with Memory-Augmented Multimodal Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-08T02:48:50Z",
+            "owner": "CraftJarvis",
+            "repo": "JARVIS-1",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/11/08] ADaPT: As-Needed Decomposition and Planning with Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-03T12:10:53Z",
+            "owner": "archiki",
+            "repo": "ADaPT",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/11/14] MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-13T10:38:02Z",
+            "owner": "cathyxl",
+            "repo": "MAgIC",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/11/26] See and Think: Embodied Agent in Virtual Environment. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-27T03:48:56Z",
+            "owner": "wenhaochai",
+            "repo": "STEVE",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "2023/11"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/10/16] Character-LLM: A Trainable Agent for Role-Playing. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-29T04:28:07Z",
+            "owner": "choosewhatulike",
+            "repo": "trainable-agents",
+            "stars": 643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/01] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-11T06:51:25Z",
+            "owner": "InteractiveNLP-Team",
+            "repo": "RoleLLM-public",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/18] SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T17:23:42Z",
+            "owner": "sotopia-lab",
+            "repo": "sotopia",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/09] Humanoid Agents: Platform for Simulating Human-like Generative Agents. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-14T21:33:36Z",
+            "owner": "HumanoidAgents",
+            "repo": "HumanoidAgents",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/12] Octopus: Embodied Vision-Language Programmer from Environmental Feedback. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-20T07:08:39Z",
+            "owner": "dongyh20",
+            "repo": "Octopus",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/08] AvalonBench: Evaluating LLMs Playing the Game of Avalon. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-30T02:18:50Z",
+            "owner": "jonathanmli",
+            "repo": "Avalon-LLM",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/03] Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-14T11:37:19Z",
+            "owner": "pkunlp-icler",
+            "repo": "PCA-EVAL",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/05] LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-13T00:03:33Z",
+            "owner": "UCSB-AI",
+            "repo": "llm_coordination",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/31] Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-09T09:27:55Z",
+            "owner": "Skytliang",
+            "repo": "SpyGame",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/20] Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-07T08:23:16Z",
+            "owner": "BAAI-Agents",
+            "repo": "Steve-Eye",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/06] Cautious Curiosity: A Novel Approach to a Human-Like Gameplay Agent. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-25T05:27:41Z",
+            "owner": "AndyZCJ",
+            "repo": "Cautious-Curiosity-Agent",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/02] SmartPlay: A Benchmark for LLMs as Intelligent Agents. [paper",
+          "description": "] [code]",
+          "children": []
+        }
+      ],
+      "title": "2023/10"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/09/14] Agents: An Open-source Framework for Autonomous Language Agents. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-26T03:12:53Z",
+            "owner": "aiwaves-cn",
+            "repo": "agents",
+            "stars": 5957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/09/29] Autoagents: A Framework for Automatic Agent Generation. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-09T21:06:56Z",
+            "owner": "OWD-AI",
+            "repo": "AutoAgents",
+            "stars": 1490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/09/29] Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-08T08:02:01Z",
+            "owner": "CR-Gjx",
+            "repo": "Suspicion-Agent",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/09/29] Motif: Intrinsic Motivation from Artificial Intelligence Feedback. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-07T12:12:33Z",
+            "owner": "facebookresearch",
+            "repo": "motif",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/09/18] MindAgent: Emergent Gaming Interaction. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-12T19:10:40Z",
+            "owner": "mindagent",
+            "repo": "mindagent",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/09/21] True Knowledge Comes from Practice: Aligning Large Language Models with Embodied Environments via Reinforcement Learning. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-11T11:32:31Z",
+            "owner": "WeihaoTan",
+            "repo": "TWOSOME",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/09/29] LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-11T16:26:56Z",
+            "owner": "S-Abdelnabi",
+            "repo": "LLM-Deliberation",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/09/29] AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-09T08:23:02Z",
+            "owner": "PKU-RL",
+            "repo": "AdaRefiner",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "2023/09"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/08/01] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/08/21] Agentverse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T05:47:44Z",
+            "owner": "OpenBMB",
+            "repo": "AgentVerse",
+            "stars": 5102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/08/22] Proagent: Constructing Proactive Cooperative AI Using Large Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-04T13:38:55Z",
+            "owner": "PKU-Alignment",
+            "repo": "ProAgent",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/08/19] GameEval: Evaluating LLMs on Conversational Games. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-03T17:29:04Z",
+            "owner": "jordddan",
+            "repo": "GameEval",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "2023/08"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/07/05] Building Cooperative Embodied Agents Modularly with Large Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-30T15:18:28Z",
+            "owner": "UMass-Embodied-AGI",
+            "repo": "CoELA",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/07/04] TaPA: Embodied Task Planning with Large Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-22T12:36:24Z",
+            "owner": "Gary3410",
+            "repo": "TaPA",
+            "stars": 195
+          }
+        }
+      ],
+      "title": "2023/07"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/06/01] STEVE-1: A Generative Model for Text-to-Behavior in Minecraft. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-04T15:47:38Z",
+            "owner": "Shalev-Lifshitz",
+            "repo": "STEVE-1",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/06/15] ChessGPT: Bridging Policy Learning and Language Modeling. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-26T18:34:02Z",
+            "owner": "waterhorse1",
+            "repo": "ChessGPT",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/06/02] OMNI: Open-endedness via Models of human Notions of Interestingness. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-28T06:58:27Z",
+            "owner": "jennyzzt",
+            "repo": "omni",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/06/20] SPRINT: Scalable Policy Pre-Training via Language Instruction Relabeling. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T17:56:37Z",
+            "owner": "clvrai",
+            "repo": "sprint",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "2023/06"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/05/25] Voyager: An Open-Ended Embodied Agent with Large Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-03T18:51:36Z",
+            "owner": "MineDojo",
+            "repo": "Voyager",
+            "stars": 7137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05/09] Tidybot: Personalized Robot Assistance with Large Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-10T16:28:38Z",
+            "owner": "jimmyyhwu",
+            "repo": "tidybot",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05/25] Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-05T02:28:03Z",
+            "owner": "OpenGVLab",
+            "repo": "GITM",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05/23] Improving Factuality and Reasoning in Language Models through Multiagent Debate. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-24T21:49:03Z",
+            "owner": "composable-models",
+            "repo": "llm_multiagent_debate",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05/17] Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-24T09:59:45Z",
+            "owner": "FranxYao",
+            "repo": "GPT-Bargaining",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05/24] SPRING: Studying Papers and Reasoning to Play Games. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-26T04:02:57Z",
+            "owner": "Holmeswww",
+            "repo": "SPRING",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "2023/05"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/04/07] Generative Agents: Interactive Simulacra of Human Behavior. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-05T21:38:56Z",
+            "owner": "joonspk-research",
+            "repo": "generative_agents",
+            "stars": 21927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Apr-23] Personalized Quest and Dialogue Generation in Role-Playing Games: A Knowledge Graph- and Language Model-based Approach. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-09T19:34:25Z",
+            "owner": "DRAGNLabs",
+            "repo": "DRAGN-Town-Quests",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04/06] Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-06T15:58:37Z",
+            "owner": "hongyuanmei",
+            "repo": "chatgpt-play-zork",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "2023/04"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/03/31] CAMEL: Communicative Agents for ''Mind'' Exploration of Large Language Model Society. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T09:51:49Z",
+            "owner": "camel-ai",
+            "repo": "camel",
+            "stars": 17578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/03/29] Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-06T09:10:28Z",
+            "owner": "PKU-RL",
+            "repo": "Plan4MC",
+            "stars": 200
+          }
+        }
+      ],
+      "title": "2023/03"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/02/12] MarioGPT: Open-Ended Text2Level Generation through Large Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-22T14:09:16Z",
+            "owner": "shyamsn97",
+            "repo": "mario-gpt",
+            "stars": 1151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/02/03] Describe, Explain, Plan and Select: Interactive Planning with LLMs Enables Open-World Multi-Task Agents. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-03T16:51:30Z",
+            "owner": "CraftJarvis",
+            "repo": "MC-Planner",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/02/13] Guiding Pretraining in Reinforcement Learning with Large Language Models. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-21T07:32:44Z",
+            "owner": "yuqingd",
+            "repo": "ellm",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "2023/02"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2022/06/07] Minedojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-18T18:10:28Z",
+            "owner": "MineDojo",
+            "repo": "MineDojo",
+            "stars": 2247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2022/10/24] Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-12T14:17:25Z",
+            "owner": "likenneth",
+            "repo": "othello_world",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "If you find this repository useful, please cite our paper:",
+      "items": [],
+      "title": "Citation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:28.226Z",
+    "original_repository": "BAAI-Agents/GPA-LM",
+    "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
+    "enhanced_repository": "enhansome/enhansome-GPA-LM",
+    "enhanced_repository_description": null,
+    "title": "Awesome A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges with stars"
+  }
+}
