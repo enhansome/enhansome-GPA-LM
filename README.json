@@ -599,7 +599,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69799
+            "stars": 69802
           }
         },
         {
@@ -757,7 +757,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7137
+            "stars": 7138
           }
         },
         {
@@ -847,7 +847,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21927
+            "stars": 21928
           }
         },
         {
@@ -895,7 +895,7 @@
             "last_commit": "2026-08-07T09:51:49Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17578
+            "stars": 17579
           }
         },
         {
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:00:28.226Z",
+    "last_updated": "2026-08-13T11:26:28.538Z",
     "original_repository": "BAAI-Agents/GPA-LM",
     "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
     "enhanced_repository": "enhansome/enhansome-GPA-LM",
