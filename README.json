@@ -53,7 +53,7 @@
             "last_commit": "2025-03-21T10:35:26Z",
             "owner": "OpenGenerativeAI",
             "repo": "llm-colosseum",
-            "stars": 1484
+            "stars": 1485
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2025-05-30T02:18:50Z",
             "owner": "jonathanmli",
             "repo": "Avalon-LLM",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -481,7 +481,7 @@
             "last_commit": "2024-09-26T03:12:53Z",
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5957
+            "stars": 5954
           }
         },
         {
@@ -599,7 +599,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69809
+            "stars": 69823
           }
         },
         {
@@ -613,7 +613,7 @@
             "last_commit": "2024-09-09T05:47:44Z",
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5105
+            "stars": 5107
           }
         },
         {
@@ -847,7 +847,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21932
+            "stars": 21935
           }
         },
         {
@@ -892,10 +892,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T09:51:49Z",
+            "last_commit": "2026-08-14T17:34:44Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17584
+            "stars": 17587
           }
         },
         {
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:25:50.967Z",
+    "last_updated": "2026-08-15T10:56:49.926Z",
     "original_repository": "BAAI-Agents/GPA-LM",
     "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
     "enhanced_repository": "enhansome/enhansome-GPA-LM",
