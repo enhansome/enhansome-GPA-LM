@@ -67,7 +67,7 @@
             "last_commit": "2025-06-16T12:19:29Z",
             "owner": "Zhoues",
             "repo": "MineDreamer",
-            "stars": 103
+            "stars": 104
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2024-06-30T13:42:16Z",
             "owner": "IranQin",
             "repo": "MP5",
-            "stars": 105
+            "stars": 106
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2024-01-03T12:10:53Z",
             "owner": "archiki",
             "repo": "ADaPT",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2023-12-27T03:48:56Z",
             "owner": "wenhaochai",
             "repo": "STEVE",
-            "stars": 41
+            "stars": 42
           }
         }
       ],
@@ -441,7 +441,7 @@
             "last_commit": "2023-12-07T08:23:16Z",
             "owner": "BAAI-Agents",
             "repo": "Steve-Eye",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -599,7 +599,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69823
+            "stars": 69854
           }
         },
         {
@@ -613,7 +613,7 @@
             "last_commit": "2024-09-09T05:47:44Z",
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5107
+            "stars": 5109
           }
         },
         {
@@ -847,7 +847,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21935
+            "stars": 21939
           }
         },
         {
@@ -895,7 +895,7 @@
             "last_commit": "2026-08-14T17:34:44Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17587
+            "stars": 17590
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2024-03-06T09:10:28Z",
             "owner": "PKU-RL",
             "repo": "Plan4MC",
-            "stars": 200
+            "stars": 201
           }
         }
       ],
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:56:49.926Z",
+    "last_updated": "2026-08-16T10:57:11.751Z",
     "original_repository": "BAAI-Agents/GPA-LM",
     "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
     "enhanced_repository": "enhansome/enhansome-GPA-LM",
