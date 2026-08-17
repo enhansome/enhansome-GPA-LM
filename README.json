@@ -127,7 +127,7 @@
             "archived": false,
             "language": "Python",
             "last_commit": "2024-09-02T13:56:23Z",
-            "owner": "zwq2018",
+            "owner": "ZJU-OmniAI",
             "repo": "Agent-Pro",
             "stars": 130
           }
@@ -343,7 +343,7 @@
             "last_commit": "2026-06-05T17:23:42Z",
             "owner": "sotopia-lab",
             "repo": "sotopia",
-            "stars": 326
+            "stars": 327
           }
         },
         {
@@ -599,7 +599,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69854
+            "stars": 69863
           }
         },
         {
@@ -757,7 +757,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7140
+            "stars": 7144
           }
         },
         {
@@ -847,7 +847,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21939
+            "stars": 21944
           }
         },
         {
@@ -895,7 +895,7 @@
             "last_commit": "2026-08-14T17:34:44Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17590
+            "stars": 17596
           }
         },
         {
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:57:11.751Z",
+    "last_updated": "2026-08-17T11:01:15.575Z",
     "original_repository": "BAAI-Agents/GPA-LM",
     "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
     "enhanced_repository": "enhansome/enhansome-GPA-LM",
