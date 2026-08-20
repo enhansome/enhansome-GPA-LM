@@ -360,7 +360,7 @@
             "last_commit": "2026-06-05T17:23:42Z",
             "owner": "sotopia-lab",
             "repo": "sotopia",
-            "stars": 327
+            "stars": 328
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2024-10-14T21:33:36Z",
             "owner": "HumanoidAgents",
             "repo": "HumanoidAgents",
-            "stars": 322
+            "stars": 323
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2024-09-26T03:12:53Z",
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5954
+            "stars": 5955
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2025-09-09T21:06:56Z",
             "owner": "OWD-AI",
             "repo": "AutoAgents",
-            "stars": 1490
+            "stars": 1491
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69893
+            "stars": 69907
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2024-09-09T05:47:44Z",
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5111
+            "stars": 5113
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7148
+            "stars": 7152
           }
         },
         {
@@ -810,7 +810,7 @@
             "last_commit": "2023-11-10T16:28:38Z",
             "owner": "jimmyyhwu",
             "repo": "tidybot",
-            "stars": 695
+            "stars": 696
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21958
+            "stars": 21959
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2026-08-14T17:34:44Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17608
+            "stars": 17611
           }
         },
         {
@@ -1044,7 +1044,7 @@
             "last_commit": "2023-07-12T14:17:25Z",
             "owner": "likenneth",
             "repo": "othello_world",
-            "stars": 212
+            "stars": 213
           }
         }
       ],
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:09.217Z",
+    "last_updated": "2026-08-20T11:02:22.703Z",
     "original_repository": "BAAI-Agents/GPA-LM",
     "original_repository_id": 751347860,
     "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
