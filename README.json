@@ -15,7 +15,7 @@
             "last_commit": "2024-12-20T10:26:34Z",
             "owner": "Holmeswww",
             "repo": "AgentKit",
-            "stars": 523
+            "stars": 522
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2024-03-05T17:56:29Z",
             "owner": "agiresearch",
             "repo": "WarAgent",
-            "stars": 451
+            "stars": 450
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2025-01-11T11:32:31Z",
             "owner": "WeihaoTan",
             "repo": "TWOSOME",
-            "stars": 82
+            "stars": 81
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69907
+            "stars": 69933
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7152
+            "stars": 7153
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2025-04-24T21:49:03Z",
             "owner": "composable-models",
             "repo": "llm_multiagent_debate",
-            "stars": 545
+            "stars": 546
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21959
+            "stars": 21966
           }
         },
         {
@@ -939,10 +939,10 @@
             "archived": false,
             "id": 615510678,
             "language": "Python",
-            "last_commit": "2026-08-14T17:34:44Z",
+            "last_commit": "2026-08-21T10:51:44Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17611
+            "stars": 17612
           }
         },
         {
@@ -993,7 +993,7 @@
             "last_commit": "2023-08-03T16:51:30Z",
             "owner": "CraftJarvis",
             "repo": "MC-Planner",
-            "stars": 294
+            "stars": 293
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2024-03-18T18:10:28Z",
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2249
+            "stars": 2250
           }
         },
         {
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:02:22.703Z",
+    "last_updated": "2026-08-21T11:02:04.936Z",
     "original_repository": "BAAI-Agents/GPA-LM",
     "original_repository_id": 751347860,
     "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
