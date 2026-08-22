@@ -330,7 +330,7 @@
             "last_commit": "2024-10-29T04:28:07Z",
             "owner": "choosewhatulike",
             "repo": "trainable-agents",
-            "stars": 643
+            "stars": 644
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2024-09-26T03:12:53Z",
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5955
+            "stars": 5956
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69933
+            "stars": 69945
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7153
+            "stars": 7154
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2025-04-24T21:49:03Z",
             "owner": "composable-models",
             "repo": "llm_multiagent_debate",
-            "stars": 546
+            "stars": 547
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21966
+            "stars": 21969
           }
         },
         {
@@ -939,10 +939,10 @@
             "archived": false,
             "id": 615510678,
             "language": "Python",
-            "last_commit": "2026-08-21T10:51:44Z",
+            "last_commit": "2026-08-21T11:36:45Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17612
+            "stars": 17617
           }
         },
         {
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:02:04.936Z",
+    "last_updated": "2026-08-22T10:57:38.835Z",
     "original_repository": "BAAI-Agents/GPA-LM",
     "original_repository_id": 751347860,
     "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
