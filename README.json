@@ -330,7 +330,7 @@
             "last_commit": "2024-10-29T04:28:07Z",
             "owner": "choosewhatulike",
             "repo": "trainable-agents",
-            "stars": 644
+            "stars": 645
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2025-09-09T21:06:56Z",
             "owner": "OWD-AI",
             "repo": "AutoAgents",
-            "stars": 1491
+            "stars": 1492
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69945
+            "stars": 69961
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7154
+            "stars": 7155
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21969
+            "stars": 21971
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2026-08-21T11:36:45Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17617
+            "stars": 17621
           }
         },
         {
@@ -1044,7 +1044,7 @@
             "last_commit": "2023-07-12T14:17:25Z",
             "owner": "likenneth",
             "repo": "othello_world",
-            "stars": 213
+            "stars": 214
           }
         }
       ],
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:57:38.835Z",
+    "last_updated": "2026-08-23T10:57:17.916Z",
     "original_repository": "BAAI-Agents/GPA-LM",
     "original_repository_id": 751347860,
     "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
