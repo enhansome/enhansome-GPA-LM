@@ -627,7 +627,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69992
+            "stars": 69996
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2024-09-09T05:47:44Z",
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5113
+            "stars": 5114
           }
         },
         {
@@ -855,7 +855,7 @@
             "last_commit": "2023-05-24T09:59:45Z",
             "owner": "FranxYao",
             "repo": "GPT-Bargaining",
-            "stars": 209
+            "stars": 210
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21973
+            "stars": 21974
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2026-08-21T11:36:45Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17630
+            "stars": 17631
           }
         },
         {
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:06:03.433Z",
+    "last_updated": "2026-08-24T14:34:36.342Z",
     "original_repository": "BAAI-Agents/GPA-LM",
     "original_repository_id": 751347860,
     "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
