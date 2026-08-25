@@ -627,7 +627,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69996
+            "stars": 70008
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2025-03-04T13:38:55Z",
             "owner": "PKU-Alignment",
             "repo": "ProAgent",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7157
+            "stars": 7156
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21974
+            "stars": 21980
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2026-08-21T11:36:45Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17631
+            "stars": 17634
           }
         },
         {
@@ -978,7 +978,7 @@
             "last_commit": "2024-07-22T14:09:16Z",
             "owner": "shyamsn97",
             "repo": "mario-gpt",
-            "stars": 1151
+            "stars": 1152
           }
         },
         {
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:36.342Z",
+    "last_updated": "2026-08-25T06:27:33.047Z",
     "original_repository": "BAAI-Agents/GPA-LM",
     "original_repository_id": 751347860,
     "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
