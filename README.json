@@ -405,7 +405,7 @@
             "last_commit": "2025-05-30T02:18:50Z",
             "owner": "jonathanmli",
             "repo": "Avalon-LLM",
-            "stars": 162
+            "stars": 163
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70014
+            "stars": 70046
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2024-09-09T05:47:44Z",
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5114
+            "stars": 5115
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7157
+            "stars": 7160
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2025-04-24T21:49:03Z",
             "owner": "composable-models",
             "repo": "llm_multiagent_debate",
-            "stars": 548
+            "stars": 549
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21983
+            "stars": 21991
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2026-08-21T11:36:45Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17637
+            "stars": 17641
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2024-03-18T18:10:28Z",
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2250
+            "stars": 2251
           }
         },
         {
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:03:32.795Z",
+    "last_updated": "2026-08-26T11:05:48.959Z",
     "original_repository": "BAAI-Agents/GPA-LM",
     "original_repository_id": 751347860,
     "original_repository_sha": "379d5cef985173d411f3256508090391cc0fdc98",
