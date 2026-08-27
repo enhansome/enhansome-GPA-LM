@@ -264,7 +264,7 @@
             "last_commit": "2024-04-08T02:48:50Z",
             "owner": "CraftJarvis",
             "repo": "JARVIS-1",
-            "stars": 410
+            "stars": 411
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70064
+            "stars": 70068
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2024-09-09T05:47:44Z",
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5116
+            "stars": 5118
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21998
+            "stars": 22002
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2026-08-27T06:39:24Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17647
+            "stars": 17649
           }
         },
         {
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:50.292Z",
+    "last_updated": "2026-08-27T20:45:23.558Z",
     "original_repository_info": {
       "archived": false,
       "id": 751347860,
