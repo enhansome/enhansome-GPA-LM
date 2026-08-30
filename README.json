@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Holmeswww",
             "repo": "AgentKit",
-            "stars": 522,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -923,10 +923,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 135,
+            "open_issues": 133,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70090,
+            "stars": 70096,
             "topics": [
               "agent",
               "gpt",
@@ -953,7 +953,7 @@
             "open_issues": 35,
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5118,
+            "stars": 5117,
             "topics": [
               "agent",
               "ai",
@@ -1189,7 +1189,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7165,
+            "stars": 7167,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1338,7 +1338,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22017,
+            "stars": 22020,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1404,10 +1404,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T06:39:24Z",
-            "open_issues": 491,
+            "open_issues": 493,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17652,
+            "stars": 17651,
             "topics": [
               "agent",
               "ai-societies",
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:19:03.280Z",
+    "last_updated": "2026-08-30T14:58:36.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
