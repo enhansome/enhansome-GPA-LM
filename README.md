@@ -103,14 +103,14 @@
 * \[2023/11/28] War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars. \[[paper](https://arxiv.org/pdf/2311.17227.pdf)] \[[code](https://github.com/agiresearch/WarAgent) ⭐ 455 | 🐛 3 | 🌐 Python | 📅 2024-03-05]
 * \[2023/11/10] Jarvis-1: Open-World Multi-Task Agents with Memory-Augmented Multimodal Language Models. \[[paper](https://arxiv.org/pdf/2311.05997.pdf)] \[[code](https://github.com/CraftJarvis/JARVIS-1) ⭐ 412 | 🐛 7 | 🌐 Java | 📅 2024-04-08]
 * \[2023/11/08] ADaPT: As-Needed Decomposition and Planning with Language Models. \[[paper](https://arxiv.org/pdf/2311.05772.pdf)] \[[code](https://github.com/archiki/ADaPT) ⭐ 94 | 🐛 9 | 🌐 Python | 📅 2024-01-03]
-* \[2023/11/14] MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration. \[[paper](https://arxiv.org/pdf/2311.08562.pdf)] \[[code](https://github.com/cathyxl/MAgIC) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2024-11-13]
+* \[2023/11/14] MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration. \[[paper](https://arxiv.org/pdf/2311.08562.pdf)] \[[code](https://github.com/cathyxl/MAgIC) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2024-11-13]
 * \[2023/11/26] See and Think: Embodied Agent in Virtual Environment. \[[paper](https://arxiv.org/pdf/2311.15209.pdf)] \[[code](https://github.com/rese1f/STEVE) ⭐ 42 | 🐛 3 | 📅 2023-12-27]
 * \[2023/11/20] DesignGPT: Multi-Agent Collaboration in Design. \[[paper](https://arxiv.org/pdf/2311.11591.pdf)]
 
 ## 2023/10
 
 * \[2023/10/16] Character-LLM: A Trainable Agent for Role-Playing. \[[paper](https://arxiv.org/pdf/2310.10158.pdf)] \[[code](https://github.com/choosewhatulike/trainable-agents) ⭐ 645 | 🐛 2 | 🌐 Python | 📅 2024-10-29]
-* \[2023/10/01] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models. \[[paper](https://arxiv.org/pdf/2310.00746.pdf)] \[[code](https://github.com/InteractiveNLP-Team/RoleLLM-public) ⭐ 528 | 🐛 11 | 📅 2024-10-11]
+* \[2023/10/01] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models. \[[paper](https://arxiv.org/pdf/2310.00746.pdf)] \[[code](https://github.com/InteractiveNLP-Team/RoleLLM-public) ⭐ 530 | 🐛 11 | 📅 2024-10-11]
 * \[2023/10/18] SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents. \[[paper](https://arxiv.org/pdf/2310.11667.pdf)] \[[code](https://github.com/sotopia-lab/sotopia) ⭐ 330 | 🐛 17 | 🌐 Python | 📅 2026-06-05]
 * \[2023/10/09] Humanoid Agents: Platform for Simulating Human-like Generative Agents. \[[paper](https://arxiv.org/pdf/2310.05418.pdf)] \[[code](https://github.com/HumanoidAgents/HumanoidAgents) ⭐ 323 | 🐛 1 | 🌐 Python | 📅 2024-10-14]
 * \[2023/10/12] Octopus: Embodied Vision-Language Programmer from Environmental Feedback. \[[paper](https://arxiv.org/pdf/2310.08588.pdf)] \[[code](https://github.com/dongyh20/Octopus) ⭐ 301 | 🐛 6 | 🌐 Python | 📅 2024-05-20]
@@ -132,11 +132,11 @@
 
 ## 2023/09
 
-* \[2023/09/14] Agents: An Open-source Framework for Autonomous Language Agents. \[[paper](https://arxiv.org/pdf/2309.07870.pdf)] \[[code](https://github.com/aiwaves-cn/agents) ⭐ 5,962 | 🐛 46 | 🌐 Python | 📅 2024-09-26]
+* \[2023/09/14] Agents: An Open-source Framework for Autonomous Language Agents. \[[paper](https://arxiv.org/pdf/2309.07870.pdf)] \[[code](https://github.com/aiwaves-cn/agents) ⭐ 5,961 | 🐛 46 | 🌐 Python | 📅 2024-09-26]
 * \[2023/09/29] Autoagents: A Framework for Automatic Agent Generation. \[[paper](https://arxiv.org/pdf/2309.17288.pdf)] \[[code](https://github.com/Link-AGI/AutoAgents) ⭐ 1,493 | 🐛 26 | 🌐 Python | 📅 2025-09-09]
 * \[2023/09/29] Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4. \[[paper](https://arxiv.org/pdf/2309.17277.pdf)] \[[code](https://github.com/CR-Gjx/Suspicion-Agent) ⭐ 167 | 🐛 1 | 🌐 Python | 📅 2023-11-08]
 * \[2023/09/29] Motif: Intrinsic Motivation from Artificial Intelligence Feedback. \[[paper](https://arxiv.org/pdf/2310.00166.pdf)] \[[code](https://github.com/facebookresearch/motif) ⚠️ Archived]
-* \[2023/09/18] MindAgent: Emergent Gaming Interaction. \[[paper](https://arxiv.org/pdf/2309.09971.pdf)] \[[code](https://github.com/mindagent/mindagent) ⭐ 102 | 🐛 1 | 🌐 Python | 📅 2024-06-12]
+* \[2023/09/18] MindAgent: Emergent Gaming Interaction. \[[paper](https://arxiv.org/pdf/2309.09971.pdf)] \[[code](https://github.com/mindagent/mindagent) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2024-06-12]
 * \[2023/09/21] True Knowledge Comes from Practice: Aligning Large Language Models with Embodied Environments via Reinforcement Learning. \[[paper](https://arxiv.org/pdf/2401.14151.pdf)] \[[code](https://github.com/WeihaoTan/TWOSOME) ⭐ 81 | 🐛 7 | 🌐 Python | 📅 2025-01-11]
 * \[2023/09/29] LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games. \[[paper](https://arxiv.org/pdf/2309.17234.pdf)] \[[code](https://github.com/S-Abdelnabi/LLM-Deliberation) ⭐ 55 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-11-11]
 * \[2023/09/29] AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback. \[[paper](https://arxiv.org/pdf/2309.17176.pdf)] \[[code](https://github.com/PKU-RL/AdaRefiner) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2024-08-09]
@@ -144,8 +144,8 @@
 
 ## 2023/08
 
-* \[2023/08/01] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. \[[paper](https://arxiv.org/pdf/2308.00352.pdf)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 70,154 | 🐛 132 | 🌐 Python | 📅 2026-01-21]
-* \[2023/08/21] Agentverse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents. \[[paper](https://arxiv.org/pdf/2308.10848.pdf)] \[[code](https://github.com/OpenBMB/AgentVerse) ⭐ 5,120 | 🐛 35 | 🌐 JavaScript | 📅 2024-09-09]
+* \[2023/08/01] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. \[[paper](https://arxiv.org/pdf/2308.00352.pdf)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 70,173 | 🐛 132 | 🌐 Python | 📅 2026-01-21]
+* \[2023/08/21] Agentverse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents. \[[paper](https://arxiv.org/pdf/2308.10848.pdf)] \[[code](https://github.com/OpenBMB/AgentVerse) ⭐ 5,119 | 🐛 35 | 🌐 JavaScript | 📅 2024-09-09]
 * \[2023/08/22] Proagent: Constructing Proactive Cooperative AI Using Large Language Models. \[[paper](https://arxiv.org/pdf/2308.11339.pdf)] \[[code](https://github.com/PKU-Alignment/ProAgent) ⭐ 107 | 🐛 2 | 🌐 JavaScript | 📅 2025-03-04]
 * \[2023/08/19] GameEval: Evaluating LLMs on Conversational Games. \[[paper](https://arxiv.org/pdf/2308.10032.pdf)] \[[code](https://github.com/jordddan/GameEval) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2023-09-03]
 * \[2023/08/23] Are ChatGPT and GPT-4 Good Poker Players?--A Pre-Flop Analysis. \[[paper](https://arxiv.org/pdf/2308.12466.pdf)]
@@ -163,14 +163,14 @@
 
 ## 2023/06
 
-* \[2023/06/01] STEVE-1: A Generative Model for Text-to-Behavior in Minecraft. \[[paper](https://arxiv.org/pdf/2306.00937.pdf)] \[[code](https://github.com/Shalev-Lifshitz/STEVE-1) ⭐ 217 | 🐛 1 | 🌐 Python | 📅 2024-06-04]
+* \[2023/06/01] STEVE-1: A Generative Model for Text-to-Behavior in Minecraft. \[[paper](https://arxiv.org/pdf/2306.00937.pdf)] \[[code](https://github.com/Shalev-Lifshitz/STEVE-1) ⭐ 218 | 🐛 1 | 🌐 Python | 📅 2024-06-04]
 * \[2023/06/15] ChessGPT: Bridging Policy Learning and Language Modeling. \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/16b14e3f288f076e0ca73bdad6405f77-Paper-Datasets_and_Benchmarks.pdf)] \[[code](https://github.com/waterhorse1/ChessGPT) ⭐ 145 | 🐛 2 | 🌐 Python | 📅 2023-10-26]
 * \[2023/06/02] OMNI: Open-endedness via Models of human Notions of Interestingness. \[[paper](https://arxiv.org/pdf/2306.01711.pdf)] \[[code](https://github.com/jennyzzt/omni) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2025-01-28]
 * \[2023/06/20] SPRINT: Scalable Policy Pre-Training via Language Instruction Relabeling. \[[paper](https://arxiv.org/pdf/2306.11886.pdf)] \[[code](https://github.com/clvrai/sprint) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-04-14]
 
 ## 2023/05
 
-* \[2023/05/25] Voyager: An Open-Ended Embodied Agent with Large Language Models. \[[paper](https://arxiv.org/pdf/2305.16291.pdf)] \[[code](https://github.com/MineDojo/Voyager) ⭐ 7,173 | 🐛 8 | 🌐 JavaScript | 📅 2024-04-03]
+* \[2023/05/25] Voyager: An Open-Ended Embodied Agent with Large Language Models. \[[paper](https://arxiv.org/pdf/2305.16291.pdf)] \[[code](https://github.com/MineDojo/Voyager) ⭐ 7,175 | 🐛 8 | 🌐 JavaScript | 📅 2024-04-03]
 * \[2023/05/09] Tidybot: Personalized Robot Assistance with Large Language Models. \[[paper](https://arxiv.org/pdf/2305.05658.pdf)] \[[code](https://github.com/jimmyyhwu/tidybot) ⭐ 694 | 🐛 0 | 🌐 Python | 📅 2023-11-10]
 * \[2023/05/25] Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory. \[[paper](https://arxiv.org/pdf/2305.17144.pdf)] \[[code](https://github.com/OpenGVLab/GITM) ⭐ 643 | 🐛 12 | 📅 2023-06-05]
 * \[2023/05/23] Improving Factuality and Reasoning in Language Models through Multiagent Debate. \[[paper](https://arxiv.org/pdf/2305.14325.pdf)] \[[code](https://github.com/composable-models/llm_multiagent_debate) ⭐ 550 | 🐛 8 | 🌐 Python | 📅 2025-04-24]
@@ -183,13 +183,13 @@
 
 ## 2023/04
 
-* \[2023/04/07] Generative Agents: Interactive Simulacra of Human Behavior. \[[paper](https://arxiv.org/pdf/2304.03442.pdf)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,032 | 🐛 146 | 📅 2024-08-05]
+* \[2023/04/07] Generative Agents: Interactive Simulacra of Human Behavior. \[[paper](https://arxiv.org/pdf/2304.03442.pdf)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,043 | 🐛 146 | 📅 2024-08-05]
 * \[Apr-23] Personalized Quest and Dialogue Generation in Role-Playing Games: A Knowledge Graph- and Language Model-based Approach. \[[paper](https://dl.acm.org/doi/pdf/10.1145/3544548.3581441)] \[[code](https://github.com/DRAGNLabs/DRAGN-Town-Quests) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-09]
 * \[2023/04/06] Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions. \[[paper](https://arxiv.org/pdf/2304.02868.pdf)] \[[code](https://github.com/hongyuanmei/chatgpt-play-zork/tree/main) ⭐ 4 | 🐛 0 | 📅 2023-04-06]
 
 ## 2023/03
 
-* \[2023/03/31] CAMEL: Communicative Agents for ''Mind'' Exploration of Large Language Model Society. \[[paper](https://arxiv.org/pdf/2303.17760.pdf)] \[[code](https://github.com/camel-ai/camel) ⭐ 17,658 | 🐛 488 | 🌐 Python | 📅 2026-08-31]
+* \[2023/03/31] CAMEL: Communicative Agents for ''Mind'' Exploration of Large Language Model Society. \[[paper](https://arxiv.org/pdf/2303.17760.pdf)] \[[code](https://github.com/camel-ai/camel) ⭐ 17,660 | 🐛 489 | 🌐 Python | 📅 2026-08-31]
 * \[2023/03/29] Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks. \[[paper](https://arxiv.org/pdf/2303.16563.pdf)] \[[code](https://github.com/PKU-RL/Plan4MC) ⭐ 201 | 🐛 4 | 🌐 Python | 📅 2024-03-06]
 * \[2023/03/06] PaLM-E: An Embodied Multimodal Language Model. \[[paper](https://arxiv.org/pdf/2303.03378.pdf)]
 
@@ -237,4 +237,4 @@ If you find this repository useful, please cite our paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
