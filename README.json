@@ -199,7 +199,7 @@
             "open_issues": 3,
             "owner": "ZJU-OmniAI",
             "repo": "Agent-Pro",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -748,7 +748,7 @@
             "open_issues": 49,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5961,
+            "stars": 5960,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -926,7 +926,7 @@
             "open_issues": 132,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70218,
+            "stars": 70226,
             "topics": [
               "agent",
               "gpt",
@@ -1036,7 +1036,7 @@
             "open_issues": 6,
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
-            "stars": 308,
+            "stars": 309,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1189,7 +1189,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7175,
+            "stars": 7178,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1338,7 +1338,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22059,
+            "stars": 22066,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1404,10 +1404,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T05:28:46Z",
-            "open_issues": 488,
+            "open_issues": 489,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17670,
+            "stars": 17671,
             "topics": [
               "agent",
               "ai-societies",
@@ -1537,7 +1537,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2254,
+            "stars": 2253,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:32:17.258Z",
+    "last_updated": "2026-09-05T13:32:17.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
