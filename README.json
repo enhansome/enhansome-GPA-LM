@@ -773,7 +773,7 @@
             "open_issues": 26,
             "owner": "OWD-AI",
             "repo": "AutoAgents",
-            "stars": 1493,
+            "stars": 1492,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -923,10 +923,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 132,
+            "open_issues": 131,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70226,
+            "stars": 70237,
             "topics": [
               "agent",
               "gpt",
@@ -1338,7 +1338,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22066,
+            "stars": 22065,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1404,10 +1404,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T05:28:46Z",
-            "open_issues": 489,
+            "open_issues": 492,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17671,
+            "stars": 17674,
             "topics": [
               "agent",
               "ai-societies",
@@ -1537,7 +1537,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2253,
+            "stars": 2252,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:32:17.397Z",
+    "last_updated": "2026-09-06T13:47:45.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
