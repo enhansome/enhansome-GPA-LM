@@ -485,7 +485,7 @@
             "open_issues": 2,
             "owner": "choosewhatulike",
             "repo": "trainable-agents",
-            "stars": 648,
+            "stars": 649,
             "topics": [
               "agent",
               "character",
@@ -748,7 +748,7 @@
             "open_issues": 50,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5963,
+            "stars": 5962,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -773,7 +773,7 @@
             "open_issues": 26,
             "owner": "OWD-AI",
             "repo": "AutoAgents",
-            "stars": 1493,
+            "stars": 1494,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -923,10 +923,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 135,
+            "open_issues": 134,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70336,
+            "stars": 70348,
             "topics": [
               "agent",
               "gpt",
@@ -1189,7 +1189,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7194,
+            "stars": 7195,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1338,7 +1338,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22093,
+            "stars": 22095,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:44:20.673Z",
+    "last_updated": "2026-09-13T14:40:16.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
