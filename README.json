@@ -67,7 +67,7 @@
             "open_issues": 16,
             "owner": "OpenGenerativeAI",
             "repo": "llm-colosseum",
-            "stars": 1483,
+            "stars": 1484,
             "topics": [
               "benchmark",
               "genai",
@@ -119,7 +119,7 @@
             "open_issues": 4,
             "owner": "sotopia-lab",
             "repo": "sotopia-pi",
-            "stars": 85,
+            "stars": 86,
             "topics": [
               "agents",
               "llm-training",
@@ -199,7 +199,7 @@
             "open_issues": 3,
             "owner": "ZJU-OmniAI",
             "repo": "Agent-Pro",
-            "stars": 132,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -363,7 +363,7 @@
             "open_issues": 3,
             "owner": "agiresearch",
             "repo": "WarAgent",
-            "stars": 454,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -384,7 +384,7 @@
             "open_issues": 7,
             "owner": "CraftJarvis",
             "repo": "JARVIS-1",
-            "stars": 414,
+            "stars": 415,
             "topics": [
               "agent",
               "language-model",
@@ -748,7 +748,7 @@
             "open_issues": 50,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5962,
+            "stars": 5963,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -926,7 +926,7 @@
             "open_issues": 133,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70383,
+            "stars": 70401,
             "topics": [
               "agent",
               "gpt",
@@ -953,7 +953,7 @@
             "open_issues": 36,
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5125,
+            "stars": 5128,
             "topics": [
               "agent",
               "ai",
@@ -1115,7 +1115,7 @@
             "open_issues": 2,
             "owner": "waterhorse1",
             "repo": "ChessGPT",
-            "stars": 145,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1189,7 +1189,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7196,
+            "stars": 7199,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1338,7 +1338,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22102,
+            "stars": 22110,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1404,10 +1404,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T14:31:55Z",
-            "open_issues": 480,
+            "open_issues": 483,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17715,
+            "stars": 17721,
             "topics": [
               "agent",
               "ai-societies",
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:33:27.420Z",
+    "last_updated": "2026-09-15T15:15:53.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
