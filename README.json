@@ -67,7 +67,7 @@
             "open_issues": 16,
             "owner": "OpenGenerativeAI",
             "repo": "llm-colosseum",
-            "stars": 1484,
+            "stars": 1483,
             "topics": [
               "benchmark",
               "genai",
@@ -199,7 +199,7 @@
             "open_issues": 3,
             "owner": "ZJU-OmniAI",
             "repo": "Agent-Pro",
-            "stars": 133,
+            "stars": 134,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -536,7 +536,7 @@
             "open_issues": 17,
             "owner": "sotopia-lab",
             "repo": "sotopia",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "large-language-models",
               "llm-agent",
@@ -748,7 +748,7 @@
             "open_issues": 50,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5963,
+            "stars": 5964,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -926,7 +926,7 @@
             "open_issues": 133,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70401,
+            "stars": 70425,
             "topics": [
               "agent",
               "gpt",
@@ -953,7 +953,7 @@
             "open_issues": 36,
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5128,
+            "stars": 5127,
             "topics": [
               "agent",
               "ai",
@@ -1036,7 +1036,7 @@
             "open_issues": 6,
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
-            "stars": 310,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1189,7 +1189,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7199,
+            "stars": 7202,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1338,7 +1338,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22110,
+            "stars": 22112,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1407,7 +1407,7 @@
             "open_issues": 483,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17721,
+            "stars": 17726,
             "topics": [
               "agent",
               "ai-societies",
@@ -1465,7 +1465,7 @@
             "open_issues": 6,
             "owner": "shyamsn97",
             "repo": "mario-gpt",
-            "stars": 1154,
+            "stars": 1155,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1558,7 +1558,7 @@
             "open_issues": 2,
             "owner": "likenneth",
             "repo": "othello_world",
-            "stars": 215,
+            "stars": 216,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:15:53.528Z",
+    "last_updated": "2026-09-16T15:09:26.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
