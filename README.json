@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Holmeswww",
             "repo": "AgentKit",
-            "stars": 522,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -67,7 +67,7 @@
             "open_issues": 16,
             "owner": "OpenGenerativeAI",
             "repo": "llm-colosseum",
-            "stars": 1485,
+            "stars": 1484,
             "topics": [
               "benchmark",
               "genai",
@@ -363,7 +363,7 @@
             "open_issues": 3,
             "owner": "agiresearch",
             "repo": "WarAgent",
-            "stars": 459,
+            "stars": 458,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -485,7 +485,7 @@
             "open_issues": 2,
             "owner": "choosewhatulike",
             "repo": "trainable-agents",
-            "stars": 649,
+            "stars": 650,
             "topics": [
               "agent",
               "character",
@@ -748,7 +748,7 @@
             "open_issues": 49,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5965,
+            "stars": 5964,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -923,10 +923,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 144,
+            "open_issues": 143,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70740,
+            "stars": 70753,
             "topics": [
               "agent",
               "gpt",
@@ -953,7 +953,7 @@
             "open_issues": 40,
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5153,
+            "stars": 5154,
             "topics": [
               "agent",
               "ai",
@@ -1189,7 +1189,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7245,
+            "stars": 7246,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1269,7 +1269,7 @@
             "open_issues": 8,
             "owner": "composable-models",
             "repo": "llm_multiagent_debate",
-            "stars": 553,
+            "stars": 552,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1338,7 +1338,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22191,
+            "stars": 22189,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1403,11 +1403,11 @@
             "id": 615510678,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T04:46:03Z",
-            "open_issues": 527,
+            "last_commit": "2026-10-05T11:43:27Z",
+            "open_issues": 529,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17811,
+            "stars": 17812,
             "topics": [
               "agent",
               "ai-societies",
@@ -1465,7 +1465,7 @@
             "open_issues": 6,
             "owner": "shyamsn97",
             "repo": "mario-gpt",
-            "stars": 1153,
+            "stars": 1154,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1537,7 +1537,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2265,
+            "stars": 2266,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:29:39.328Z",
+    "last_updated": "2026-10-05T19:34:01.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
