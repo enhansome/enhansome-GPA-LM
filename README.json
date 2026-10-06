@@ -363,7 +363,7 @@
             "open_issues": 3,
             "owner": "agiresearch",
             "repo": "WarAgent",
-            "stars": 458,
+            "stars": 459,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -653,7 +653,7 @@
             "open_issues": 1,
             "owner": "UCSB-AI",
             "repo": "llm_coordination",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "agent-coordination",
               "coordination-game",
@@ -926,7 +926,7 @@
             "open_issues": 142,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70760,
+            "stars": 70761,
             "topics": [
               "agent",
               "gpt",
@@ -1338,7 +1338,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22191,
+            "stars": 22192,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1404,7 +1404,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T11:43:27Z",
-            "open_issues": 531,
+            "open_issues": 530,
             "owner": "camel-ai",
             "repo": "camel",
             "stars": 17814,
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:30:52.620Z",
+    "last_updated": "2026-10-06T16:55:38.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",

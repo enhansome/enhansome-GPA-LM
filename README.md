@@ -100,7 +100,7 @@
 
 ## 2023/11
 
-* \[2023/11/28] War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars. \[[paper](https://arxiv.org/pdf/2311.17227.pdf)] \[[code](https://github.com/agiresearch/WarAgent) ⭐ 458 | 🐛 3 | 🌐 Python | 📅 2024-03-05]
+* \[2023/11/28] War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars. \[[paper](https://arxiv.org/pdf/2311.17227.pdf)] \[[code](https://github.com/agiresearch/WarAgent) ⭐ 459 | 🐛 3 | 🌐 Python | 📅 2024-03-05]
 * \[2023/11/10] Jarvis-1: Open-World Multi-Task Agents with Memory-Augmented Multimodal Language Models. \[[paper](https://arxiv.org/pdf/2311.05997.pdf)] \[[code](https://github.com/CraftJarvis/JARVIS-1) ⭐ 418 | 🐛 7 | 🌐 Java | 📅 2024-04-08]
 * \[2023/11/08] ADaPT: As-Needed Decomposition and Planning with Language Models. \[[paper](https://arxiv.org/pdf/2311.05772.pdf)] \[[code](https://github.com/archiki/ADaPT) ⭐ 95 | 🐛 9 | 🌐 Python | 📅 2024-01-03]
 * \[2023/11/14] MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration. \[[paper](https://arxiv.org/pdf/2311.08562.pdf)] \[[code](https://github.com/cathyxl/MAgIC) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2024-11-13]
@@ -116,7 +116,7 @@
 * \[2023/10/12] Octopus: Embodied Vision-Language Programmer from Environmental Feedback. \[[paper](https://arxiv.org/pdf/2310.08588.pdf)] \[[code](https://github.com/dongyh20/Octopus) ⭐ 301 | 🐛 6 | 🌐 Python | 📅 2024-05-20]
 * \[2023/10/08] AvalonBench: Evaluating LLMs Playing the Game of Avalon. \[[paper](https://arxiv.org/pdf/2310.05036.pdf)] \[[code](https://github.com/jonathanmli/Avalon-LLM) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2025-05-30]
 * \[2023/10/03] Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond. \[[paper](https://arxiv.org/pdf/2310.02071.pdf)] \[[code](https://github.com/pkunlp-icler/PCA-EVAL) ⭐ 108 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-03-14]
-* \[2023/10/05] LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models. \[[paper](https://arxiv.org/pdf/2310.02071.pdf)] \[[code](https://github.com/eric-ai-lab/llm_coordination) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2024-10-13]
+* \[2023/10/05] LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models. \[[paper](https://arxiv.org/pdf/2310.02071.pdf)] \[[code](https://github.com/eric-ai-lab/llm_coordination) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2024-10-13]
 * \[2023/10/31] Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models. \[[paper](https://arxiv.org/pdf/2310.20499.pdf)] \[[code](https://github.com/Skytliang/SpyGame) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2023-11-09]
 * \[2023/10/20] Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds. \[[paper](https://arxiv.org/pdf/2310.13255.pdf)] \[[code](https://github.com/BAAI-Agents/Steve-Eye) ⭐ 10 | 🐛 2 | 📅 2023-12-07]
 * \[2023/10/06] Cautious Curiosity: A Novel Approach to a Human-Like Gameplay Agent. \[[paper](https://ojs.aaai.org/index.php/AIIDE/article/view/27533/27306)] \[[code](https://github.com/AndyZCJ/Cautious-Curiosity-Agent) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-07-25]
@@ -144,7 +144,7 @@
 
 ## 2023/08
 
-* \[2023/08/01] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. \[[paper](https://arxiv.org/pdf/2308.00352.pdf)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 70,760 | 🐛 142 | 🌐 Python | 📅 2026-01-21]
+* \[2023/08/01] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. \[[paper](https://arxiv.org/pdf/2308.00352.pdf)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 70,761 | 🐛 142 | 🌐 Python | 📅 2026-01-21]
 * \[2023/08/21] Agentverse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents. \[[paper](https://arxiv.org/pdf/2308.10848.pdf)] \[[code](https://github.com/OpenBMB/AgentVerse) ⭐ 5,154 | 🐛 40 | 🌐 JavaScript | 📅 2024-09-09]
 * \[2023/08/22] Proagent: Constructing Proactive Cooperative AI Using Large Language Models. \[[paper](https://arxiv.org/pdf/2308.11339.pdf)] \[[code](https://github.com/PKU-Alignment/ProAgent) ⭐ 108 | 🐛 2 | 🌐 JavaScript | 📅 2025-03-04]
 * \[2023/08/19] GameEval: Evaluating LLMs on Conversational Games. \[[paper](https://arxiv.org/pdf/2308.10032.pdf)] \[[code](https://github.com/jordddan/GameEval) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2023-09-03]
@@ -183,13 +183,13 @@
 
 ## 2023/04
 
-* \[2023/04/07] Generative Agents: Interactive Simulacra of Human Behavior. \[[paper](https://arxiv.org/pdf/2304.03442.pdf)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,191 | 🐛 146 | 📅 2024-08-05]
+* \[2023/04/07] Generative Agents: Interactive Simulacra of Human Behavior. \[[paper](https://arxiv.org/pdf/2304.03442.pdf)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,192 | 🐛 146 | 📅 2024-08-05]
 * \[Apr-23] Personalized Quest and Dialogue Generation in Role-Playing Games: A Knowledge Graph- and Language Model-based Approach. \[[paper](https://dl.acm.org/doi/pdf/10.1145/3544548.3581441)] \[[code](https://github.com/DRAGNLabs/DRAGN-Town-Quests) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-09]
 * \[2023/04/06] Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions. \[[paper](https://arxiv.org/pdf/2304.02868.pdf)] \[[code](https://github.com/hongyuanmei/chatgpt-play-zork/tree/main) ⭐ 4 | 🐛 0 | 📅 2023-04-06]
 
 ## 2023/03
 
-* \[2023/03/31] CAMEL: Communicative Agents for ''Mind'' Exploration of Large Language Model Society. \[[paper](https://arxiv.org/pdf/2303.17760.pdf)] \[[code](https://github.com/camel-ai/camel) ⭐ 17,814 | 🐛 531 | 🌐 Python | 📅 2026-10-05]
+* \[2023/03/31] CAMEL: Communicative Agents for ''Mind'' Exploration of Large Language Model Society. \[[paper](https://arxiv.org/pdf/2303.17760.pdf)] \[[code](https://github.com/camel-ai/camel) ⭐ 17,814 | 🐛 530 | 🌐 Python | 📅 2026-10-05]
 * \[2023/03/29] Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks. \[[paper](https://arxiv.org/pdf/2303.16563.pdf)] \[[code](https://github.com/PKU-RL/Plan4MC) ⭐ 202 | 🐛 4 | 🌐 Python | 📅 2024-03-06]
 * \[2023/03/06] PaLM-E: An Embodied Multimodal Language Model. \[[paper](https://arxiv.org/pdf/2303.03378.pdf)]
 
