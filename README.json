@@ -485,7 +485,7 @@
             "open_issues": 2,
             "owner": "choosewhatulike",
             "repo": "trainable-agents",
-            "stars": 650,
+            "stars": 651,
             "topics": [
               "agent",
               "character",
@@ -515,7 +515,7 @@
             "open_issues": 11,
             "owner": "InteractiveNLP-Team",
             "repo": "RoleLLM-public",
-            "stars": 532,
+            "stars": 533,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -536,7 +536,7 @@
             "open_issues": 17,
             "owner": "sotopia-lab",
             "repo": "sotopia",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "large-language-models",
               "llm-agent",
@@ -926,7 +926,7 @@
             "open_issues": 142,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70765,
+            "stars": 70779,
             "topics": [
               "agent",
               "gpt",
@@ -953,7 +953,7 @@
             "open_issues": 40,
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5155,
+            "stars": 5156,
             "topics": [
               "agent",
               "ai",
@@ -1335,10 +1335,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2024-08-05T21:38:56Z",
-            "open_issues": 146,
+            "open_issues": 145,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22190,
+            "stars": 22200,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1404,10 +1404,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T11:43:27Z",
-            "open_issues": 531,
+            "open_issues": 529,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17817,
+            "stars": 17827,
             "topics": [
               "agent",
               "ai-societies",
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:32:12.089Z",
+    "last_updated": "2026-10-08T17:35:19.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
