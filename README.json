@@ -93,7 +93,7 @@
             "open_issues": 1,
             "owner": "Zhoues",
             "repo": "MineDreamer",
-            "stars": 104,
+            "stars": 103,
             "topics": [
               "diffusion-model",
               "embodied-agent",
@@ -363,7 +363,7 @@
             "open_issues": 3,
             "owner": "agiresearch",
             "repo": "WarAgent",
-            "stars": 458,
+            "stars": 459,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -604,7 +604,7 @@
             "open_issues": 2,
             "owner": "jonathanmli",
             "repo": "Avalon-LLM",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "decision-making",
               "games",
@@ -926,7 +926,7 @@
             "open_issues": 141,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70820,
+            "stars": 70835,
             "topics": [
               "agent",
               "gpt",
@@ -1189,7 +1189,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7257,
+            "stars": 7259,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1269,7 +1269,7 @@
             "open_issues": 8,
             "owner": "composable-models",
             "repo": "llm_multiagent_debate",
-            "stars": 552,
+            "stars": 553,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1338,7 +1338,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22212,
+            "stars": 22219,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1407,7 +1407,7 @@
             "open_issues": 536,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17873,
+            "stars": 17880,
             "topics": [
               "agent",
               "ai-societies",
@@ -1558,7 +1558,7 @@
             "open_issues": 2,
             "owner": "likenneth",
             "repo": "othello_world",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:59:31.382Z",
+    "last_updated": "2026-10-13T17:47:38.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
