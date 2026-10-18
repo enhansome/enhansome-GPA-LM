@@ -926,7 +926,7 @@
             "open_issues": 139,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70892,
+            "stars": 70907,
             "topics": [
               "agent",
               "gpt",
@@ -1189,7 +1189,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7270,
+            "stars": 7271,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1335,10 +1335,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2024-08-05T21:38:56Z",
-            "open_issues": 146,
+            "open_issues": 145,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22236,
+            "stars": 22237,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1407,7 +1407,7 @@
             "open_issues": 544,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17915,
+            "stars": 17925,
             "topics": [
               "agent",
               "ai-societies",
@@ -1537,7 +1537,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2273,
+            "stars": 2275,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1558,7 +1558,7 @@
             "open_issues": 2,
             "owner": "likenneth",
             "repo": "othello_world",
-            "stars": 219,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:55:41.378Z",
+    "last_updated": "2026-10-18T14:08:38.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
