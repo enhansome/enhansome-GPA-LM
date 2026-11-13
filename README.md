@@ -49,7 +49,7 @@
 
 ## 2024/04
 
-* \[2024/04/17] AgentKit: Flow Engineering with Graphs, not Coding. \[[paper](https://arxiv.org/pdf/2404.11483.pdf)] \[[code](https://github.com/holmeswww/AgentKit) ⭐ 523 | 🐛 0 | 🌐 Python | 📅 2024-12-20]
+* \[2024/04/17] AgentKit: Flow Engineering with Graphs, not Coding. \[[paper](https://arxiv.org/pdf/2404.11483.pdf)] \[[code](https://github.com/holmeswww/AgentKit) ⭐ 522 | 🐛 0 | 🌐 Python | 📅 2024-12-20]
 * \[2024/04/16] Self-playing Adversarial Language Game Enhances LLM Reasoning. \[[paper](https://arxiv.org/pdf/2404.10642.pdf)] \[[code](https://github.com/Linear95/SPAG) ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2025-02-24]
 
 ## 2024/03
@@ -111,7 +111,7 @@
 
 * \[2023/10/16] Character-LLM: A Trainable Agent for Role-Playing. \[[paper](https://arxiv.org/pdf/2310.10158.pdf)] \[[code](https://github.com/choosewhatulike/trainable-agents) ⭐ 658 | 🐛 2 | 🌐 Python | 📅 2024-10-29]
 * \[2023/10/01] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models. \[[paper](https://arxiv.org/pdf/2310.00746.pdf)] \[[code](https://github.com/InteractiveNLP-Team/RoleLLM-public) ⭐ 538 | 🐛 11 | 📅 2024-10-11]
-* \[2023/10/18] SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents. \[[paper](https://arxiv.org/pdf/2310.11667.pdf)] \[[code](https://github.com/sotopia-lab/sotopia) ⭐ 343 | 🐛 20 | 🌐 Python | 📅 2026-06-05]
+* \[2023/10/18] SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents. \[[paper](https://arxiv.org/pdf/2310.11667.pdf)] \[[code](https://github.com/sotopia-lab/sotopia) ⭐ 344 | 🐛 20 | 🌐 Python | 📅 2026-06-05]
 * \[2023/10/09] Humanoid Agents: Platform for Simulating Human-like Generative Agents. \[[paper](https://arxiv.org/pdf/2310.05418.pdf)] \[[code](https://github.com/HumanoidAgents/HumanoidAgents) ⭐ 329 | 🐛 1 | 🌐 Python | 📅 2024-10-14]
 * \[2023/10/12] Octopus: Embodied Vision-Language Programmer from Environmental Feedback. \[[paper](https://arxiv.org/pdf/2310.08588.pdf)] \[[code](https://github.com/dongyh20/Octopus) ⭐ 302 | 🐛 6 | 🌐 Python | 📅 2024-05-20]
 * \[2023/10/08] AvalonBench: Evaluating LLMs Playing the Game of Avalon. \[[paper](https://arxiv.org/pdf/2310.05036.pdf)] \[[code](https://github.com/jonathanmli/Avalon-LLM) ⭐ 167 | 🐛 2 | 🌐 Python | 📅 2025-05-30]
@@ -144,7 +144,7 @@
 
 ## 2023/08
 
-* \[2023/08/01] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. \[[paper](https://arxiv.org/pdf/2308.00352.pdf)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 71,264 | 🐛 154 | 🌐 Python | 📅 2026-01-21]
+* \[2023/08/01] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. \[[paper](https://arxiv.org/pdf/2308.00352.pdf)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 71,273 | 🐛 153 | 🌐 Python | 📅 2026-01-21]
 * \[2023/08/21] Agentverse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents. \[[paper](https://arxiv.org/pdf/2308.10848.pdf)] \[[code](https://github.com/OpenBMB/AgentVerse) ⭐ 5,164 | 🐛 41 | 🌐 JavaScript | 📅 2024-09-09]
 * \[2023/08/22] Proagent: Constructing Proactive Cooperative AI Using Large Language Models. \[[paper](https://arxiv.org/pdf/2308.11339.pdf)] \[[code](https://github.com/PKU-Alignment/ProAgent) ⭐ 109 | 🐛 2 | 🌐 JavaScript | 📅 2025-03-04]
 * \[2023/08/19] GameEval: Evaluating LLMs on Conversational Games. \[[paper](https://arxiv.org/pdf/2308.10032.pdf)] \[[code](https://github.com/jordddan/GameEval) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2023-09-03]
@@ -155,7 +155,7 @@
 
 ## 2023/07
 
-* \[2023/07/05] Building Cooperative Embodied Agents Modularly with Large Language Models. \[[paper](https://arxiv.org/pdf/2307.02485.pdf)] \[[code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/) ⭐ 318 | 🐛 6 | 🌐 Python | 📅 2025-03-30]
+* \[2023/07/05] Building Cooperative Embodied Agents Modularly with Large Language Models. \[[paper](https://arxiv.org/pdf/2307.02485.pdf)] \[[code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/) ⭐ 319 | 🐛 6 | 🌐 Python | 📅 2025-03-30]
 * \[2023/07/04] TaPA: Embodied Task Planning with Large Language Models. \[[paper](https://arxiv.org/pdf/2307.01848.pdf)] \[[code](https://github.com/Gary3410/TaPA) ⭐ 195 | 🐛 8 | 🌐 Python | 📅 2023-08-22]
 * \[2023/07/24] Tachikuma: Understanding Complex Interactions with Multi-Character and Novel Objects by large Language Models. \[[paper](https://arxiv.org/pdf/2307.12573.pdf)]
 * \[2023/07/21] Selective Perception: Optimizing State Descriptions with Reinforcement Learning for Language Model Actors. \[[paper](https://arxiv.org/pdf/2307.11922.pdf)] \[[project](https://kolbytn.github.io/blinder/)]
@@ -170,10 +170,10 @@
 
 ## 2023/05
 
-* \[2023/05/25] Voyager: An Open-Ended Embodied Agent with Large Language Models. \[[paper](https://arxiv.org/pdf/2305.16291.pdf)] \[[code](https://github.com/MineDojo/Voyager) ⭐ 7,323 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03]
-* \[2023/05/09] Tidybot: Personalized Robot Assistance with Large Language Models. \[[paper](https://arxiv.org/pdf/2305.05658.pdf)] \[[code](https://github.com/jimmyyhwu/tidybot) ⭐ 694 | 🐛 0 | 🌐 Python | 📅 2023-11-10]
+* \[2023/05/25] Voyager: An Open-Ended Embodied Agent with Large Language Models. \[[paper](https://arxiv.org/pdf/2305.16291.pdf)] \[[code](https://github.com/MineDojo/Voyager) ⭐ 7,325 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03]
+* \[2023/05/09] Tidybot: Personalized Robot Assistance with Large Language Models. \[[paper](https://arxiv.org/pdf/2305.05658.pdf)] \[[code](https://github.com/jimmyyhwu/tidybot) ⭐ 693 | 🐛 0 | 🌐 Python | 📅 2023-11-10]
 * \[2023/05/25] Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory. \[[paper](https://arxiv.org/pdf/2305.17144.pdf)] \[[code](https://github.com/OpenGVLab/GITM) ⭐ 644 | 🐛 12 | 📅 2023-06-05]
-* \[2023/05/23] Improving Factuality and Reasoning in Language Models through Multiagent Debate. \[[paper](https://arxiv.org/pdf/2305.14325.pdf)] \[[code](https://github.com/composable-models/llm_multiagent_debate) ⭐ 557 | 🐛 8 | 🌐 Python | 📅 2025-04-24]
+* \[2023/05/23] Improving Factuality and Reasoning in Language Models through Multiagent Debate. \[[paper](https://arxiv.org/pdf/2305.14325.pdf)] \[[code](https://github.com/composable-models/llm_multiagent_debate) ⭐ 558 | 🐛 8 | 🌐 Python | 📅 2025-04-24]
 * \[2023/05/17] Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback. \[[paper](https://arxiv.org/pdf/2305.10142.pdf)] \[[code](https://github.com/FranxYao/GPT-Bargaining) ⭐ 210 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-24]
 * \[2023/05/24] SPRING: Studying Papers and Reasoning to Play Games. \[[paper](https://arxiv.org/pdf/2305.15486.pdf)] \[[code](https://github.com/Holmeswww/SPRING) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-03-26]
 * \[May-23] COTTAGE: Coherent Text Adventure Games Generation. \[[paper](https://www.cis.upenn.edu/~ccb/publications/masters-theses/River-Yijiang-Dong-masters-thesis-2023.pdf)] \[[code](https://colab.research.google.com/drive/1Gnn6sR9oHwCHenkf3JF4ZhiiDFK7_SM0#scrollTo=OrNCXsMO9Gwh)]
@@ -183,7 +183,7 @@
 
 ## 2023/04
 
-* \[2023/04/07] Generative Agents: Interactive Simulacra of Human Behavior. \[[paper](https://arxiv.org/pdf/2304.03442.pdf)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,374 | 🐛 147 | 📅 2024-08-05]
+* \[2023/04/07] Generative Agents: Interactive Simulacra of Human Behavior. \[[paper](https://arxiv.org/pdf/2304.03442.pdf)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 22,377 | 🐛 147 | 📅 2024-08-05]
 * \[Apr-23] Personalized Quest and Dialogue Generation in Role-Playing Games: A Knowledge Graph- and Language Model-based Approach. \[[paper](https://dl.acm.org/doi/pdf/10.1145/3544548.3581441)] \[[code](https://github.com/DRAGNLabs/DRAGN-Town-Quests) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-09]
 * \[2023/04/06] Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions. \[[paper](https://arxiv.org/pdf/2304.02868.pdf)] \[[code](https://github.com/hongyuanmei/chatgpt-play-zork/tree/main) ⭐ 4 | 🐛 0 | 📅 2023-04-06]
 
@@ -237,4 +237,4 @@ If you find this repository useful, please cite our paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
