@@ -748,7 +748,7 @@
             "open_issues": 71,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5964,
+            "stars": 5968,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -926,7 +926,7 @@
             "open_issues": 156,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 71300,
+            "stars": 71329,
             "topics": [
               "agent",
               "gpt",
@@ -953,7 +953,7 @@
             "open_issues": 41,
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5165,
+            "stars": 5166,
             "topics": [
               "agent",
               "ai",
@@ -1036,7 +1036,7 @@
             "open_issues": 6,
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
-            "stars": 319,
+            "stars": 320,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1189,7 +1189,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7330,
+            "stars": 7332,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1269,7 +1269,7 @@
             "open_issues": 8,
             "owner": "composable-models",
             "repo": "llm_multiagent_debate",
-            "stars": 558,
+            "stars": 557,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1338,7 +1338,7 @@
             "open_issues": 147,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22388,
+            "stars": 22390,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:54.334Z"
@@ -1404,10 +1404,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T11:44:40Z",
-            "open_issues": 651,
+            "open_issues": 652,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 18040,
+            "stars": 18043,
             "topics": [
               "agent",
               "ai-societies",
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T20:40:03.826Z",
+    "last_updated": "2026-11-17T19:23:06.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
